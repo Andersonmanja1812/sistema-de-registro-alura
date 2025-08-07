@@ -4,3 +4,5 @@
 
 - Para ejecutar el sistema, debes poner:
 '''npm Install reac'''
+
+Sistema de Registro 2
